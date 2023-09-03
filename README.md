@@ -1,3 +1,3 @@
 # Projects
-Open source Projects and Personal Project:snowflake:
+Open source Projects and Personal Projects:snowflake:
 
